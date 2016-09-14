@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAquirium</string>
+
+    <!-- for login -->
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="login_page_text">Login Page</string>
+    <string name="user_name_text">User Name:</string>
+    <string name="password_text">password:</string>
+    <string name="log_in_button">Log in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_search_beacons">SearchBeacons</string>
+
+
+</resources>
